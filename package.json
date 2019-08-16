@@ -1,0 +1,17 @@
+{
+  "name": "raqstamp",
+  "verson": "0",
+  "main": "raqstamp.js",
+  "dependencies": {
+    "jimp": "^0.6.4"
+  },
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node image.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
